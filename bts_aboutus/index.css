@@ -851,7 +851,7 @@
 .we-ensure-maximum-container {
   position: absolute;
   top: 943px;
-  left: 250px;
+  left: 420px;
   color: var(--color-dimgray);
 }
 .we-are-the-container,
@@ -933,7 +933,7 @@
 .img-09-16f41331-b9c0-49f6-aa2d-parent {
   position: absolute;
   top: 1477px;
-  left: 250px;
+  left: 280px;
   width: 1359px;
   height: 647px;
   color: var(--color-dimgray);
@@ -1032,7 +1032,7 @@
 .our-professionals-are-container {
   position: absolute;
   top: 2426px;
-  left: 250px;
+  left: 440px;
   color: var(--color-dimgray);
 }
 .meet-our-dedicated {
@@ -1439,7 +1439,7 @@
   position: absolute;
   top: 0;
   left: calc(50% - 457px);
-  font-size: 90px;
+  font-size: 80px;
   letter-spacing: 20px;
   font-weight: 900;
   color: var(--color-gray-100);
@@ -1471,7 +1471,7 @@
 }
 .pngegg-13-1 {
   top: 2134px;
-  left: 1000px;
+  left: 94rem;
   width: 397px;
   height: 138px;
   object-fit: cover;
