@@ -3221,7 +3221,141 @@
   font-size: 16px;
 }
 
-@media screen and (max-width: 1600px) {
+@media screen and (min-width: 1441px) and (max-width: 1600px) {
+  .spices-brings-taste-to-your-ki-parent {
+    left: 160px;
+    top: 17rem;
+  }
+  .component-1 {
+    width: 100%;
+  }
+  .group-parent28 {
+    left: 5rem;
+    width: 1360px;
+  }
+  .social-whatsapp-circle-512-1-icon {
+    top: 36rem;
+    left: 88rem;
+  }
+  .pngegg-10-1 {
+    top: 110rem;
+    left: 1rem;
+  }
+  .pngegg-13-1 {
+    top: 2300px;
+    left: 1050px;
+  }
+  .pngegg-4-2 {
+    display: none;
+  }
+  .pngegg-4-2-parent {
+    width: 700px;
+    top: 2350px;
+  }
+  .dlbeatsnoop-7-icon {
+    top: 2350px;
+  }
+  .spices-png-top-view-1-icon {
+    top: 170rem;
+  }
+  .photo-indian-spices-background-icon {
+    display: none;
+  }
+  .group-parent9 {
+    top: 195rem;
+    left: 2rem;
+  }
+  .photo-indian-spices-background-icon1 {
+    display: none;
+  }
+  .dance-flavor-symphony-spices-w-icon {
+    top: 260rem;
+  }
+  .group-parent21 {
+    top: 270rem;
+  }
+  .pngegg-18-1 {
+    top: 950px;
+    left: 84rem;
+  }
+  .pngegg-19-1 {
+    top: 264rem;
+    left: 80rem;
+  }
+  .pixelcut-export-13-21 {
+    top: 300rem;
+  }
+  .pngegg-8-1 {
+    top: 300rem;
+    left: 78.9rem;
+  }
+  .testi-event-parent {
+    top: 314rem;
+  }
+  .blog-event-parent {
+    top: 0rem;
+  }
+  .group-parent7 {
+    top: 325rem;
+  }
+  .star-anise-1-icon {
+    display: none;
+  }
+  .group-parent6 {
+    top: 352rem;
+    left: 5rem;
+  }
+  .pixelcut-export-13-3 {
+    display: none;
+  }
+  .group-parent18 {
+    top: 380rem;
+  }
+  .pngegg-9-3 {
+    display: none;
+  }
+  .pixelcut-export-13-22 {
+    display: none;
+  }
+  .rectangle-parent25 {
+    top: 456rem;
+    left: 2rem;
+  }
+  .pixelcut-export-9-3-parent {
+    top: 470rem;
+    width: 94.7rem;
+    height: 65rem;
+  }
+  .group-parent12 {
+    left: 160px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .group-parent17 {
+    left: 75px;
+  }
+
+  .pixelcut-export-9-3 {
+    width: 94.7rem;
+    height: 65rem;
+  }
+  .frame-parent2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .stay-connected-parent {
+    left: 50px;
+  }
+  .frame-group {
+    gap: 1rem;
+    left: 5rem;
+  }
+  .group-parent11 {
+    display: none;
+  }
+  .copyright {
+    top: 60rem;
+  }
+}
+@media screen and (min-width: 1151px) and (max-width: 1440px) {
   .spices-brings-taste-to-your-ki-parent {
     left: 160px;
     top: 17rem;
@@ -3276,18 +3410,18 @@
   }
   .pngegg-18-1 {
     top: 950px;
-    left: 81rem;
+    left: 79rem;
   }
   .pngegg-19-1 {
     top: 264rem;
-    left: 80rem;
+    left: 78rem;
   }
   .pixelcut-export-13-21 {
     top: 300rem;
   }
   .pngegg-8-1 {
     top: 300rem;
-    left: 75.9rem;
+    left: 73.9rem;
   }
   .testi-event-parent {
     top: 314rem;
@@ -3297,6 +3431,8 @@
   }
   .group-parent7 {
     top: 325rem;
+    width: 90%;
+    left: 5rem;
   }
   .star-anise-1-icon {
     display: none;
@@ -3346,12 +3482,20 @@
   }
   .frame-group {
     gap: 1rem;
+    width: 90%;
+    left: 4rem;
   }
   .group-parent11 {
     display: none;
   }
   .copyright {
     top: 60rem;
+  }
+  .group-child61 {
+    width: 1310px;
+  }
+  .rectangle-parent26 {
+    left: 610px;
   }
 }
 
